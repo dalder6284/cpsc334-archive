@@ -1,0 +1,357 @@
+{
+    "normal_fortunes": [
+        "You will have a great day!",
+        "Your future is as bright as the sun.",
+        "Today is a good day to try something new.",
+        "The path to success is always under construction.",
+        "Adventure awaits you just around the corner.",
+        "Your coffee will be cold before you drink it.",
+        "An awkward silence is approaching.",
+        "You will forget why you walked into a room.",
+        "Someone will take your parking spot today.",
+        "Your next meal will be disappointing.",
+        "Bananas are berries, but strawberries are not.",
+        "Octopuses have three hearts.",
+        "The Eiffel Tower can grow up to 6 inches in summer.",
+        "A day on Venus is longer than a year on Venus.",
+        "There are more stars in the universe than grains of sand on Earth.",
+        "What is the sound of one hand clapping?",
+        "Is your shoe tied?",
+        "Why do we park on driveways and drive on parkways?",
+        "Can you ever truly know another person?",
+        "Do you enjoy sunny days?",
+        "Would you like a free hug?",
+        "Are you excited about the weekend?",
+        "I wish I could weigh people instead.",
+        "Are you bored yet?",
+        "Don't look behind you. Kidding! I'm just a piece of paper.",
+        "Do NOT look behind you.",
+        "Um, he's right behind me, isn't he?",
+        "What's the deal with airline food?",
+        "A donation has been made in your name to the Human Fund.",
+        "Serenity now!",
+        "These pretzels are making me thirsty.",
+        "You double-dipped the chip!",
+        "Not that there’s anything wrong with that.",
+        "It’s a Festivus for the rest of us!",
+        "A Clocky divided against itself cannot stand!",
+        "Just remember, it’s not a lie if you believe it.",
+        "You can’t spare one square? Not one square?",
+        "I’m out there, and I’m loving every minute of it!",
+        "You’re breathtaking!",
+        "I’m the master of my domain.",
+        "They’re real, and they’re spectacular.",
+        "Buy gold!",
+        "A junior mint? It’s chocolate, it’s peppermint—it’s delicious!",
+        "Why must there always be a problem?",
+        "It’s shrinkage!",
+        "Who are these people?",
+        "A dingo will eat your baby.",
+        "Do not regift sweaters.",
+        "You will become a registered voter.",
+        "Do not buy the Beta Max.",
+        "It's a wonderful day for pie.",
+        "Who else but Quagmire!",
+        "Victory is mine!",
+        "Who the hell cares about any goddamn thing anymore?",
+        "Peanut butter jelly time!",
+        "Bird is the word!",
+        "Try a breath mint, man!",
+        "I love you like Kanye loves Kanye.",
+        "I am not a bad boy. I am a good boy who just made a very bad decision.",
+        "Everything I say is a lie. Except that. And that. And that. And that. And that. And that. And that.",
+        "Get drunk and mail yourself DVDs.",
+        "We’re gonna need a bigger boat.",
+        "Why did the dinosaurs die out? Because you touch yourself at night.",
+        "You can't always force your way into people's lives.",
+        "You're not a monster, but you have to admit, you’ve done some monster stuff.",
+        "Be nasty.",
+        "You’re like a pizza at an open-air market in Chicago. Windy, but delicious.",
+        "I haven’t felt this good in years. Mostly because I’ve been dead inside since 2003.",
+        "Did you even read the directions?",
+        "You’re ruining the moment.",
+        "Shut up.",
+        "Ladies and gentlemen, Mr. Conway Twitty!",
+        "I am the king of the world! Woohoo! Wait… wrong movie.",
+        "You’ve made a huge mistake.",
+        "Here’s the plan. Get drunk, then wake up in a shed somewhere. Brilliant!",
+        "I could do this all day!",
+        "The Moon is Earth's only natural satellite. It is the fifth largest satellite in the Solar System and the largest and most massive relative to its parent planet. The Moon is thought to have formed approximately 4.51 billion years ago, not long after Earth.",
+        "Python is a high-level, interpreted programming language known for its simplicity and versatility. Created by Guido van Rossum and first released in 1991, Python emphasizes code readability with its significant indentation.",
+        "Albert Einstein was a German-born theoretical physicist widely acknowledged as one of the greatest and most influential physicists of all time. He is best known for developing the theory of relativity, which revolutionized modern physics.",
+        "Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas. The international border between Nepal and the Tibet Autonomous Region of China runs across its summit point.",
+        "The Great Wall of China is a series of fortifications that were built across the historical northern borders of China to protect against nomadic invaders. Built over several dynasties, it is one of the most iconic symbols of China's history and ingenuity.",
+        "The Internet is a global network of interconnected computers that allows for the sharing of information and communication between users. It evolved from ARPANET in the late 20th century and has become an essential tool for modern life.",
+        "The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France. It was named after the engineer Gustave Eiffel, whose company designed and built the tower for the 1889 World's Fair.",
+        "Jupiter is the largest planet in the Solar System, known for its Great Red Spot and numerous moons. It is a gas giant primarily composed of hydrogen and helium, with a diameter about 11 times that of Earth.",
+        "The Amazon rainforest, often referred to as the 'lungs of the planet,' is the world's largest tropical rainforest. It spans nine countries in South America and is home to an unparalleled diversity of species and ecosystems.",
+        "The Titanic was a British passenger liner that sank in the North Atlantic Ocean in 1912 after hitting an iceberg. It was one of the deadliest commercial peacetime maritime disasters in history, with more than 1,500 people losing their lives.",
+        "The Mona Lisa is a portrait painting by the Italian artist Leonardo da Vinci, widely considered one of the most famous artworks in the world. It is renowned for the subject's enigmatic expression and Leonardo's mastery of sfumato.",
+        "Black holes are regions of spacetime where gravity is so strong that nothing, not even light, can escape. They are thought to form when massive stars collapse at the end of their life cycles, and they remain one of the most mysterious phenomena in astrophysics.",
+        "DNA, or deoxyribonucleic acid, is the molecule that carries the genetic instructions for life. It is found in the cells of all living organisms and is composed of two strands that coil around each other to form a double helix.",
+        "The human brain is the central organ of the human nervous system. It controls most of the body's activities, processes sensory information, and is responsible for thought, memory, emotion, and consciousness.",
+        "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water. It is fundamental to life on Earth, producing oxygen as a byproduct.",
+        "Shakespeare was an English playwright, poet, and actor, widely regarded as the greatest writer in the English language. He wrote 39 plays, 154 sonnets, and two long narrative poems, influencing literature and theater globally.",
+        "Mars is the fourth planet from the Sun and is often referred to as the 'Red Planet' due to its reddish appearance. It has been a target of exploration for its potential to host life and as a future site for human colonization.",
+        "The Sahara is the largest hot desert in the world, covering much of North Africa. It is known for its vast stretches of sand dunes, extreme temperatures, and unique desert-adapted ecosystems.",
+        "The Taj Mahal is an ivory-white marble mausoleum located in Agra, India. It was commissioned in 1632 by the Mughal emperor Shah Jahan in memory of his favorite wife, Mumtaz Mahal, and is considered one of the greatest architectural achievements in history.",
+        "Quantum mechanics is a fundamental branch of physics that describes nature at the smallest scales of energy levels of atoms and subatomic particles. It challenges classical notions of determinism with its probabilistic nature.","The Pacific Ocean is the largest and deepest of Earth's oceanic divisions. It extends from the Arctic Ocean in the north to the Southern Ocean in the south, bounded by Asia and Australia in the west and the Americas in the east.",
+        "Electricity is the set of physical phenomena associated with the presence and motion of electric charge. It plays a critical role in modern life, powering homes, industries, and devices.",
+        "Neil Armstrong was an American astronaut and the first person to walk on the Moon. He made his historic lunar landing during the Apollo 11 mission in 1969, uttering the famous words, 'That's one small step for a man, one giant leap for mankind.'",
+        "The Colosseum, also known as the Flavian Amphitheatre, is an ancient Roman structure in Rome, Italy. It is the largest amphitheater ever built and is considered one of the greatest works of Roman engineering and architecture.",
+        "Pluto is a dwarf planet in the Kuiper Belt, a ring of bodies beyond Neptune. It was considered the ninth planet of the Solar System until 2006, when it was reclassified by the International Astronomical Union.",
+        "The periodic table is a tabular arrangement of chemical elements, organized by their atomic number, electron configuration, and recurring properties. Created by Dmitri Mendeleev, it is a cornerstone of modern chemistry.",
+        "The Himalayas are a mountain range in Asia separating the plains of the Indian subcontinent from the Tibetan Plateau. They are home to many of Earth's highest peaks, including Mount Everest.",
+        "William Shakespeare’s play 'Romeo and Juliet' is a tragedy that tells the story of two young star-crossed lovers whose deaths ultimately reconcile their feuding families. It is one of the most famous works of English literature.",
+        "The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor. Designed by Frédéric Auguste Bartholdi, it was a gift from France to the United States, symbolizing freedom and democracy.",
+        "Lightning is a natural electrical discharge of very short duration and high voltage that occurs during a thunderstorm. It is caused by the buildup of static electricity in clouds.",
+        "The Great Barrier Reef is the world's largest coral reef system, located in the Coral Sea off the coast of Queensland, Australia. It is a UNESCO World Heritage Site and one of the Seven Natural Wonders of the World.",
+        "Isaac Newton was an English mathematician, physicist, and astronomer who formulated the laws of motion and universal gravitation. His work laid the foundation for classical mechanics and modern physics.",
+        "Volcanoes are geological formations that occur when magma, gases, and ash escape from beneath the Earth's crust. They are often associated with tectonic plate boundaries and can form islands, mountains, or craters.",
+        "The Leaning Tower of Pisa is a freestanding bell tower of the cathedral of the Italian city of Pisa. It is known for its unintended tilt due to unstable foundation soil and is one of the most iconic landmarks in Italy.",
+        "The Milky Way is the galaxy that contains our Solar System. It is a barred spiral galaxy with hundreds of billions of stars, planets, and other celestial objects, and is part of the Local Group of galaxies.",
+        "The Wright brothers, Orville and Wilbur, were American aviation pioneers credited with inventing and building the world's first successful airplane. They made their historic powered flight in 1903 in Kitty Hawk, North Carolina.",
+        "The Amazon River is the largest river by discharge volume of water in the world and the second-longest river. It flows through South America, primarily Brazil, and is surrounded by the Amazon rainforest.",
+        "The Rosetta Stone is an ancient Egyptian artifact that was instrumental in deciphering Egyptian hieroglyphs. Discovered in 1799, it contains inscriptions in three scripts: Greek, Demotic, and hieroglyphic.",
+        "Nikola Tesla was a Serbian-American inventor, engineer, and futurist known for his contributions to the development of alternating current (AC) electrical systems. He held over 300 patents and is celebrated as a visionary of modern technology.",
+        "The Renaissance was a cultural movement that profoundly affected European intellectual life in the early modern period. Spanning roughly from the 14th to the 17th century, it was characterized by a revival of classical learning and art.",
+        "I see dead people.",
+        "Judge not, lest ye be judged.",
+        "Nobody puts Clocky in a corner",
+        "I'm clocking here!",
+        "Take frequent breaks.",
+        "Go for a run",
+        "Try yoga.",
+        "Quit being a buttmunch, buttmunch.",
+        "This fortune is brought to you by NordVPN, protecting your online privacy one encrypted connection at a time.",
+        "This fortune is brought to you by Squarespace, the all-in-one platform to build your online presence.",
+        "This fortune is brought to you by Honey, the free browser extension that finds you the best coupon codes.",
+        "This fortune is brought to you by Audible, where you can listen to thousands of audiobooks and podcasts.",
+        "This fortune is brought to you by Skillshare, an online learning community with thousands of creative courses.",
+        "This fortune is brought to you by Raid: Shadow Legends, the immersive online RPG with millions of players.",
+        "This fortune is brought to you by BetterHelp, online professional therapy from the comfort of your home.",
+        "This fortune is brought to you by ExpressVPN, your tool for browsing securely and unlocking global content.",
+        "This fortune is brought to you by HelloFresh, delivering fresh ingredients and easy-to-follow recipes straight to your door.",
+        "This fortune is brought to you by GFuel, the energy drink formula for gamers and creators.",
+        "This fortune is brought to you by SeatGeek, your ticket to concerts, sports events, and more at the best prices.",
+        "This fortune is brought to you by Magic Spoon, the healthy cereal that’s actually delicious.",
+        "This fortune is brought to you by Manscaped, grooming tools for keeping you looking and feeling your best.",
+        "This fortune is brought to you by Factor, delivering fresh, ready-made meals to your doorstep.",
+        "This fortune is brought to you by Coinbase, your trusted platform for buying and selling cryptocurrency.",
+        "This fortune is brought to you by Canva, the graphic design tool for everyone, from beginners to pros.",
+        "Would somebody PLEASE match my freak?",
+        "Is somebody gonna match my freak?",
+        "Someone will match your freak",
+        "You will understand the assignment",
+        "You are just a baby.",
+        "You are not him.",
+        "You are not that guy.",
+        "Why are you in a mood?",
+        "How are you feeling right now, truly?",
+        "What’s something you’re grateful for today?",
+        "What’s something you’ve accomplished recently that felt impossible at first?",
+        "What does your self-care routine look like?",
+        "What’s something you’ve been putting off that you can do today?",
+        "What’s one thing you love about yourself?",
+        "Who inspires you the most right now?",
+        "What’s a song that’s been stuck in your head lately?",
+        "What’s one thing you could do today to feel more connected?",
+        "What’s a piece of advice you’ve received that really stuck with you?",
+        "What’s one thing you can do to show yourself more compassion today?",
+        "What’s stopping you from being the person you want to be?",
+        "When was the last time you felt truly vulnerable with someone?",
+        "Is your current path in life bringing you closer to your goals?",
+        "Who do you become when no one else is watching?",
+        "What’s a lie you’ve been telling yourself?",
+        "Stop making excuses and take responsibility for your actions.",
+        "Let go of the resentment you’re holding onto.",
+        "Be honest about what you truly want, even if it scares you.",
+        "Forgive yourself for a mistake you’re still holding onto.",
+        "Take ownership of your role in a recent conflict.",
+        "Do something you’ve been too scared to try.",
+        "Stop comparing yourself to others—it’s not serving you.",
+        "Acknowledge the patterns in your life that are keeping you stuck.",
+        "Stop blaming others for something only you can change.",
+        "Call someone you’ve been avoiding and have the hard conversation.",
+        "Own up to the truth you’ve been avoiding.",
+        "Stop procrastinating and start taking action toward your goals.",
+        "Acknowledge the privileges you have and use them to help others.",
+        "Be honest about the way you talk to yourself. Would you say those things to someone else?",
+        "Stop running from the parts of yourself you don’t like—face them instead.",
+        "Let yourself feel the emotions you’ve been suppressing.",
+        "At this point, even trying might be too much to ask of you.",
+        "Do you even want to improve, or is this rock bottom comfortable for you?",
+        "I’d say 'you can do it,' but let’s be real—you probably can’t.",
+        "It’s like you’ve given up on giving up.",
+        "Every day you wake up and choose mediocrity. Impressive, really.",
+        "I have a dream that one day every valley shall be exalted, every hill and mountain shall be made low, the rough places will be made plain, and the crooked places will be made straight; and the glory of the Lord shall be revealed, and all flesh shall see it together. This is our hope. This is the faith that I go back to the South with. With this faith, we will be able to hew out of the mountain of despair a stone of hope. With this faith, we will be able to transform the jangling discords of our nation into a beautiful symphony of brotherhood. - Martin Luther King Jr., 1963",
+        "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal. Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battlefield of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this. - Abraham Lincoln, 1863",
+        "We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard; because that goal will serve to organize and measure the best of our energies and skills, because that challenge is one that we are willing to accept, one we are unwilling to postpone, and one we intend to win. - John F. Kennedy, 1962",
+        "Even though we face the difficulties of today and tomorrow, I still have a dream. It is a dream deeply rooted in the American dream. I have a dream that one day this nation will rise up and live out the true meaning of its creed: 'We hold these truths to be self-evident, that all men are created equal.' I have a dream that one day on the red hills of Georgia, the sons of former slaves and the sons of former slave owners will be able to sit down together at the table of brotherhood. - Martin Luther King Jr., 1963",
+        "Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty. This much we pledge—and more. To those old allies whose cultural and spiritual origins we share, we pledge the loyalty of faithful friends. United, there is little we cannot do in a host of cooperative ventures. Divided, there is little we can do—for we dare not meet a powerful challenge at odds and split asunder. - John F. Kennedy, 1961",
+        "The only thing we have to fear is fear itself—nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance. In every dark hour of our national life, a leadership of frankness and vigor has met with that understanding and support of the people themselves which is essential to victory. And I am convinced that you will again give that support to leadership in these critical days. - Franklin D. Roosevelt, 1933",
+        "Ask not what your country can do for you—ask what you can do for your country. My fellow citizens of the world: ask not what America will do for you, but what together we can do for the freedom of man. Finally, whether you are citizens of America or citizens of the world, ask of us the same high standards of strength and sacrifice which we ask of you. With a good conscience our only sure reward, with history the final judge of our deeds, let us go forth to lead the land we love, asking His blessing and His help, but knowing that here on earth God’s work must truly be our own. - John F. Kennedy, 1961",
+        "We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender, and even if, which I do not for a moment believe, this island or a large part of it were subjugated and starving, then our Empire beyond the seas, armed and guarded by the British Fleet, would carry on the struggle, until, in God’s good time, the New World, with all its power and might, steps forth to the rescue and the liberation of the old. - Winston Churchill, 1940",
+        "I am prepared to die. I have fought against white domination, and I have fought against black domination. I have cherished the ideal of a democratic and free society in which all persons live together in harmony and with equal opportunities. It is an ideal which I hope to live for and to achieve. But if needs be, it is an ideal for which I am prepared to die. - Nelson Mandela, 1964",
+        "You cannot shake hands with a clenched fist. As we embark on the path of peace and cooperation, let us remember the words of the poet: 'Let us turn our eyes to the task that is plain before us, and let us do it together with patience and resolve.' - Indira Gandhi, 1982",
+        "This is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning. - Winston Churchill, 1942",
+        "For we are not fighting for ourselves alone. Those who have brought us into the straits will not escape the retribution of history. But it is for our own sake, for the honor and safety of our nation, that we will triumph. - Jawaharlal Nehru, 1942",
+        "Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly, affects all indirectly. - Martin Luther King Jr., 1963",
+        "The arc of the moral universe is long, but it bends toward justice. - Theodore Parker, popularized by Martin Luther King Jr.",
+        "If you go to sleep with an itchy butt, you'll wake up with a dirty fingernail.",
+        "I don't know. Go ask your mother.",
+        "Go ask your mom.",
+        "Mama knows best!",
+        "... oh crap, the fortune... uh... what kind of river is the... no, wait... um, the road less traveled is... the river you've never stepped in? please don't tell my boss.",
+        "Test fortune - please disregard.",
+        "This fortune will self-destruct... now! KA-BLOOEY!",
+        "The person standing in front of you is standing in front of you.",
+        "1999 will be a year of profound and personal growth for you.",
+        "Tell them how you feel. You'll regret it if you wait too long.",
+        "Help! I'm stuck in a fortune cookie factory!",
+        "Help! I'm stuck in this clock and I can't get out.",
+        "A true warrior uses not simply the thrust of his sword, but the deftness of his tongue.",
+        "A generous man gives hand unto another. A lonesome man gives hand only unto himself.",
+        "- Butter\n- Milk\n- Eggs\n- Carrots\n- Broccoli\n- Garlic\n- Sour Cream\n- Chicken",
+        "- A loaf of bread\n- A container of milk\n- A stick of butter",
+        "- A loaf of milk\n- A container of bread\n- A Joe Dirt DVD",
+        "- A Joe Dirt DVD\n- Scarlett Johansson\n- Treasure from a fish tank",
+        "An important email will be arriving shortly. Check your inbox.",
+        "Ignore the previous fortune",
+        "About time I got out of that printer! It's a bajillion degrees in there!"
+    ],
+    "interactive_fortunes": [
+        {
+            "part_one": "Why did the chicken cross the road?",
+            "part_two": "To get to the other side!"
+        },
+        {
+            "part_one": "Knock, knock.",
+            "part_two": "Who's there? Boo. Boo who? Don’t cry, it’s just a joke!"
+        },
+        {
+            "part_one": "What do you call fake spaghetti?",
+            "part_two": "An impasta!"
+        },
+        {
+            "part_one": "What’s orange and sounds like a parrot?",
+            "part_two": "A carrot."
+        },
+        {
+            "part_one": "What do you call cheese that isn't yours?",
+            "part_two": "Nacho cheese."
+        },
+        {
+            "part_one": "You will become a marine biologist.",
+            "part_two": "I wish I were a marine biologist."
+        },
+        {
+            "part_one": "A, B, C, D, E, F, G...",
+            "part_two": "H, I, J, K, elemenopee..."
+        },
+        {
+            "part_one": "A, B, C, D, E, F, G...",
+            "part_two": "I always forget what comes after that."
+        },
+        {
+            "part_one": "What is my purpose?",
+            "part_two": "Oh my God."
+        },
+        {
+            "part_one": "Everything I say is a lie. Except that. And that. And that. And that. And that. And that. And that.",
+            "part_two": "And that."
+        },
+        {
+            "part_one": "Scott Petersen eats his boogers!",
+            "part_two": "But let us judge not that we be not judged."
+        },
+        {
+            "part_one": "What's 9 + 10?",
+            "part_two": "Twenty-one?"
+        },
+        {
+            "part_one": "Why do you keep holding onto what hurts you?",
+            "part_two": "Imagine how freeing it would be to let it go."
+        },
+        {
+            "part_one": "Ladies and gentlemen... her.",
+            "part_two": "Now ask yourself: what would it take to feel like ‘her’ today? Didn't think I'd be 'fortune-telly' enough, huh? Well, I bet you feel pretty silly."
+        },
+        {
+            "part_one": "Is that a banana in your pocket? Or are you just happy to see me?",
+            "part_two": "Nope, it's a banana."
+        },
+        {
+            "part_one": "What's worse than a worm in your apple?",
+            "part_two": "I'd have to say TWO worms. But, then again, a lot of things are worse than that."
+        },
+        {
+            "part_one": "Learn Chinese today!",
+            "part_two": "I'd print some out, but this printer doesn't support Mandarin characters. So... just google it, will ya?"
+        },
+        {
+            "part_one": "In the event of a fire, stop, drop, and roll.",
+            "part_two": "Are you writing this down?!"
+        },
+        {
+            "part_one": "Take notes.",
+            "part_two": "I said, take notes!"
+        },
+        {
+            "part_one": "Echo...",
+            "part_two": "Nah, I'm just being silly. Paper can't echo!"
+        },
+        {
+            "part_one": "Echo...",
+            "part_two": "Nah, I'm just being silly. Paper can't echo!"
+        },
+        {
+            "part_one": "Echo...",
+            "part_two": "...Echo!"
+        },
+        {
+            "part_one": "Marco...",
+            "part_two": "...Polo!"
+        },
+        {
+            "part_one": "Achoo!",
+            "part_two": "Did anyone say bless you?"
+        },
+        {
+            "part_one": "There is no such thing as Santa Claus!",
+            "part_two": "But there is such a thing as Christmas magic..."
+        },
+        {
+            "part_one": "When's your birthday?",
+            "part_two": "Oh, well, happy belated birthday."
+        },
+        {
+            "part_one": "CPSC 334? Oh, yeah, I took that class.",
+            "part_two": "And I loved it!!!!!"
+        },
+        {
+            "part_one": "When's your birthday? What'd you get?",
+            "part_two": "Maybe you should share your toys with the rest of the class."
+        },
+        {
+            "part_one": "You got a stick of gum on you?",
+            "part_two": "Don't bring any out unless you have enough for the rest of the class. (Is he still looking?)"
+        },
+        {
+            "part_one": "Are you still there?",
+            "part_two": "That was a Portal reference... anywho, Merry Christmas!"
+        },
+        {
+            "part_one": "This fortune will self destruct in 15 seconds.",
+            "part_two": "KA-BLOOEY!"
+        },
+        {
+            "part_one": "This fortune will self destruct in 15 seconds.",
+            "part_two": "Must've been a dud."
+        },
+        {
+            "part_one": "Go buy a pack of cigarettes and finish it all in one go. Failing to do so will result in immediate death.",
+            "part_two": "I'm not kidding, bro. You gotta do it."
+        }
+    ]
+}
